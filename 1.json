@@ -1,0 +1,15 @@
+{
+  "name": "OA 2022",
+  "description": "Openair 2022 NFT",
+  "image": "ipfs://bafybeic2zwceoy5ol4jkz3zq4v4iiidjd4fuybjmwppaclzowh7q5wqtny",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "OA 23 Festival Ticket"
+    }
+  ]
+}

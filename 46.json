@@ -1,0 +1,15 @@
+{
+  "name": "OA 2022",
+  "description": "Openair 2022 NFT",
+  "image": "ipfs://bafybeieycv2urol3mdmtz4pf5pdosow4tihajs6strjd7pt4nng3ugajnq",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "None"
+    }
+  ]
+}

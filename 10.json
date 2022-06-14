@@ -1,0 +1,15 @@
+{
+  "name": "OA 2022",
+  "description": "Openair 2022 NFT",
+  "image": "ipfs://bafybeihw4xzqfacfv5qzvq6dj2tvezr52uxbtbqmgnq6c4m6ewb3i5oexm",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Bronze"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "CHF 25"
+    }
+  ]
+}
